@@ -1,2 +1,2 @@
 # tracking_expenses
-MAKING A SIMPLE PROJECT TO TRACK THE DAY TO DAY EXPENSES USING:✅ Python + Streamlit  ✅ SQLite for storage  ✅ Matplotlib for visualizations  ✅ Export to Excel  ✅ Date range filtering  ✅ Basic password protection
+MAKING A SIMPLE PROJECT TO TRACK THE DAY TO DAY EXPENSES USING:<br>✅ Python + Streamlit <br> ✅ SQLite for storage<br>  ✅ Matplotlib for visualizations <br> ✅ Export to Excel<br>  ✅ Date range filtering <br> ✅ Basic password protection
